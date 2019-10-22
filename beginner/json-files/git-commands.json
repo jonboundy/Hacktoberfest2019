@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git commend",
+    "description": "This command quickly adds on any staged files to your latest commit that was created, re-using the existing commit message."
   }
 ]
